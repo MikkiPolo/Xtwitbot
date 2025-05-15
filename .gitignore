@@ -4,6 +4,7 @@
 # Конфигурации
 config.json
 .env
+.idea
 
 # Кэш и временные файлы
 __pycache__/
